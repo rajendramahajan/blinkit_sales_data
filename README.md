@@ -1,13 +1,15 @@
-# blinkit_sales_data
-This project focuses on analyzing Blinkit’s sales data using Power BI to provide meaningful insights and visualizations. The primary objective is to clean the data, create new measures for analysis, and build interactive dashboards to aid decision-making.
+# Blinkit Data Analysis
 
-Key aspects of the project include:
-1-Data Cleaning: Processed and prepared raw data for analysis by handling inconsistencies, missing values, and formatting issues.
+This project focuses on analyzing Blinkit’s sales data using Power BI to extract valuable insights and visualize trends. The objective is to gain a deeper understanding of sales performance, customer behavior, and to provide data-driven recommendations that optimize business decisions.
 
-2-New Measures Creation: Developed custom measures (e.g., total sales, average order value, customer retention rates) to enhance the analysis.
+## Key Highlights
 
-3-Exploratory Data Analysis (EDA): Visualized sales performance across different categories, time periods, and geographic locations.
+- **Data Cleaning**: Processed and transformed raw sales data to ensure accuracy and consistency for analysis.
+- **Exploratory Data Analysis (EDA)**: Visualized sales trends across various categories, regions, and time periods to identify patterns and opportunities.
+- **Sales Insights**: Analyzed key metrics such as total revenue, growth rates, top-performing products, and regions.
+- **Customer Behavior Analysis**: Evaluated customer purchasing patterns to identify trends and optimize marketing strategies.
+- **Interactive Dashboards**: Created dynamic Power BI dashboards that enable users to interact with the data and explore insights efficiently.
 
-4-Customer Behavior Insights: Analyzed customer purchasing trends and identified patterns for strategic marketing and sales decisions.
+## Tools & Technologies
 
-5-Interactive Dashboards: Designed and developed Power BI dashboards to present key insights, allowing users to interact with the data dynamically.
+- **Power BI**: Data cleaning, analysis, and visualization
